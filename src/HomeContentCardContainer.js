@@ -10,7 +10,7 @@ function HomeContentCardContainer(){
         fetch('https://fakestoreapi.com/products')
             .then(res=>res.json())
             .then(json=>(
-                setProducts(json.slice(1, 4))))
+                setProducts(json.slice(1, 5))))
                 setIsLoading(false)            
     }, [])
 
