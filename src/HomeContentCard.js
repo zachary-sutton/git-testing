@@ -1,9 +1,11 @@
 import React from "react"
 
-function HomeContentCard(){
+function HomeContentCard(props){
     return(
-        <div>
-            <h1>Home Content Card Test Import</h1>
+        <div className="home-content-card">
+            <h1>{props.name}</h1>
+            <img src={props.src} />
+            <p>{props.desc}</p>
         </div>
     )
 }

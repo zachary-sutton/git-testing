@@ -1,15 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import HomeContentCard from './HomeContentCard';
+import HomeContentCardContainer from './HomeContentCardContainer';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>
-          Edit to master after creating new branch
-        </h1>
+        <HomeContentCardContainer />
         <a
           className="App-link"
           href="https://reactjs.org"
