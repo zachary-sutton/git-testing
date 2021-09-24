@@ -10,7 +10,7 @@ function HomeContentCardContainer(){
         fetch('https://fakestoreapi.com/products')
             .then(res=>res.json())
             .then(json=>(
-                setProducts(json.slice(1, 4))))
+                setProducts(json.slice(1, 5))))
                 setIsLoading(false)            
     }, [])
 
@@ -24,9 +24,13 @@ function HomeContentCardContainer(){
     const loadingTxt = isLoading ? <h1>Loading please wait...</h1> : mapItems
 
     return(
-        <div className="home-content-card-container">
-            {loadingTxt}
-        </div>
+        <>
+            <h1>3 Products</h1>
+            <p>cool tshirts brother</p>
+            <div className="home-content-card-container">
+                {loadingTxt}
+            </div>
+        </>
     )
 }
 
