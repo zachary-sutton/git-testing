@@ -26,6 +26,7 @@ function HomeContentCardContainer(){
     return(
         <>
             <h1>3 Products</h1>
+            <p>cool tshirts brother</p>
             <div className="home-content-card-container">
                 {loadingTxt}
             </div>
