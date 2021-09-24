@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/git-testing/static/css/main.a617e044.chunk.css",
-    "main.js": "/git-testing/static/js/main.e3d4c01c.chunk.js",
-    "main.js.map": "/git-testing/static/js/main.e3d4c01c.chunk.js.map",
+    "main.css": "/git-testing/static/css/main.89393514.chunk.css",
+    "main.js": "/git-testing/static/js/main.c8a1a22c.chunk.js",
+    "main.js.map": "/git-testing/static/js/main.c8a1a22c.chunk.js.map",
     "runtime-main.js": "/git-testing/static/js/runtime-main.c5d1f5e3.js",
     "runtime-main.js.map": "/git-testing/static/js/runtime-main.c5d1f5e3.js.map",
     "static/js/2.430870e0.chunk.js": "/git-testing/static/js/2.430870e0.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.536b4381.chunk.js": "/git-testing/static/js/3.536b4381.chunk.js",
     "static/js/3.536b4381.chunk.js.map": "/git-testing/static/js/3.536b4381.chunk.js.map",
     "index.html": "/git-testing/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/git-testing/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.89393514.chunk.css.map": "/git-testing/static/css/main.89393514.chunk.css.map",
     "static/js/2.430870e0.chunk.js.LICENSE.txt": "/git-testing/static/js/2.430870e0.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/git-testing/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c5d1f5e3.js",
     "static/js/2.430870e0.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.e3d4c01c.chunk.js"
+    "static/css/main.89393514.chunk.css",
+    "static/js/main.c8a1a22c.chunk.js"
   ]
 }
