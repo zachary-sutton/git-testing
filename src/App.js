@@ -7,10 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          nsdglkdsgnskjgnjsgkjsdngkjskjdgnk
+          Edit to master after creating new branch
         </h1>
-        <p>status change</p>
-        <h3>PUSH TEST 2</h3>
         <a
           className="App-link"
           href="https://reactjs.org"
