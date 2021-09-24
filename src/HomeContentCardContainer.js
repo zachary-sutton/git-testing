@@ -26,7 +26,7 @@ function HomeContentCardContainer(){
 
     return(
         <>
-            <h1>{products.length} Products</h1>
+            <h1>{products && products.length} Products</h1>
             <p>cool tshirts brother</p>
             <div className="home-content-card-container">
                 {loadingTxt}
