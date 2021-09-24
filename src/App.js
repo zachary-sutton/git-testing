@@ -10,14 +10,6 @@ function App() {
         <AdvertBanner />
         <img src={logo} className="App-logo" alt="logo" />
         <HomeContentCardContainer />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
