@@ -1,6 +1,10 @@
 .home-content-card-container{
   display: flex;
+<<<<<<< HEAD
   color: purple;
+=======
+  color: green;
+>>>>>>> changed card font colour to green
 }
 
 .home-content-card{
