@@ -23,9 +23,10 @@ function HomeContentCardContainer(){
 
     const loadingTxt = isLoading ? <h1>Loading please wait...</h1> : mapItems
 
+
     return(
         <>
-            <h1>3 Products</h1>
+            <h1>{products.length} Products</h1>
             <p>cool tshirts brother</p>
             <div className="home-content-card-container">
                 {loadingTxt}
